@@ -1,1 +1,1 @@
-This repository contains my completed Jupyter Notebooks from the Coursera course Data Analysis with Python (https://www.coursera.org/learn/data-analysis-with-python) from IBM.
+This repository contains my completed Jupyter Notebooks from the Coursera courses Data Analysis with Python (https://www.coursera.org/learn/data-analysis-with-python) and Data Visualization with Python (https://www.coursera.org/learn/python-for-data-visualization), both from IBM.
